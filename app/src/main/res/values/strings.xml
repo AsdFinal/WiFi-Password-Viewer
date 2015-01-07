@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">WiFiP</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="app_name">WiFi-P</string>
+    <string name="about">
+		
+		点击 ↺ 显示所有密码
+		\n
+		\n
+		Author : DogW
+		\n
+		\n
+		CoolApk ID : AsdFinal
+		\n\n
+		Page : blog.dogw.com.cn/wifip/
+		\n
+	</string>
 
 </resources>
